@@ -21,11 +21,11 @@
 
 # Result Data Format
 
-| Year     | NOC      | Regoin     | Gold     | Silver     | Bronze     | Total Medals       |
-| -------- | -------- | ---------- | -------- | ---------- | ---------- | ------------------ |
-| $Year_1$ | $NOC_1$  | $Regoin_1$ | $Gold_1$ | $Silver_1$ | $Bronze_1$ | $Total \ Medals_1$ |
-| $\vdots$ | $\vdots$ | $\vdots$   | $\vdots$ | $\vdots$   | $\vdots$   | $\vdots$           |
-| $Year_n$ | $NOC_n$  | $Regoin_n$ | $Gold_n$ | $Silver_n$ | $Bronze_n$ | $Total \ Medals_n$ |
+| Year             | NOC               | Regoin               | Gold               | Silver               | Bronze               | Total Medals             |
+| ---------------- | ----------------- | -------------------- | ------------------ | -------------------- | -------------------- | ------------------------ |
+| Year<sub>1</sub> | NOC_1<sub>1</sub> | Regoin_1<sub>1</sub> | Gold_1<sub>1</sub> | Silver_1<sub>1</sub> | Bronze_1<sub>1</sub> | Total Medals<sub>1</sub> |
+| . . .            | . . .             | . . .                | . . .              | . . .                | . . .                | . . .                    |
+| Year<sub>n</sub> | NOC_n<sub>n</sub> | Regoin_n<sub>n</sub> | Gold_n<sub>n</sub> | Silver_n<sub>n</sub> | Bronze_n<sub>n</sub> | Total Medals<sub>n</sub> |
 
 ### Participants
 
