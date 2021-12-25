@@ -144,6 +144,7 @@ cython_debug/
 # Data Files for the machien learning assignment(s)
 Machine-Learning/Assignment_1/Data/*
 Machine-Learning/Assignment_2/Data/*
+Machien-Learning/Assignment_3/Data/*
 
 # Data Engineering Labs
 Data-Engineering/Labs/*
